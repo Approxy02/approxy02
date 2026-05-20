@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sangjun Ji
+# Sangjun Ji (지상준)
 
 **Undergraduate Research Intern @ Graph & Language Intelligence Lab, Konkuk University**
 
