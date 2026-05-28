@@ -33,7 +33,7 @@ Jul. 2024 – Present
 
 ## Publications
 
-**Disentangled Global-Local Representations via Relation-Entity Pair Encoding for Hyper-Relational KGs**  
+**Joint Global-Local Representations via Relation-Entity Pair Encoding for Hyper-Relational Knowledge Graphs**  
 Sangjun Ji, Sangjune Kim, Bonyou Koo, Youngho Lee, Xiongnan Jin, and Byungkook Oh\*  
 *To Appear in ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*  
 Research Track, Acceptance Rate: 18.5%
