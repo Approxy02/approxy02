@@ -42,9 +42,9 @@ Research Track, Acceptance Rate: 18.5%
 Sangjun Ji, Hye-Yoon Baek, Donghyun Lee, and Byungkook Oh\*  
 *Under Review at KCC 2026*
 
-**LLM-based Document-Level Relation Extraction with Logical Rule Reasoning**  
-Hye-Yoon Baek, Sangjun Ji, Jimyeung Seo, Hae-Yoon Koo, and Byungkook Oh\*  
-*In Progress*
+**Internalizing Negation-Gated Logical Rules into LLMs for Document-Level Relation Extraction**  
+Hye-Yoon Baek, Sangjun Ji, Jimyeung Seo, Hae-Yoon Koo, Xiongnan Jin, and Byungkook Oh*  
+*Under Review*
 
 ---
 
