@@ -40,7 +40,8 @@ Research Track, Acceptance Rate: 18.5%
 
 **Mention-Context Hypergraph Aggregation for Document-level Relation Extraction**  
 Sangjun Ji, Hye-Yoon Baek, Donghyun Lee, and Byungkook Oh\*  
-*Under Review at KCC 2026*
+*Korea Computer Congress (KCC), 2026*
+Undergraduate Paper Track
 
 **Internalizing Negation-Gated Logical Rules into LLMs for Document-Level Relation Extraction**  
 Hye-Yoon Baek, Sangjun Ji, Jimyeung Seo, Hae-Yoon Koo, Xiongnan Jin, and Byungkook Oh*  
