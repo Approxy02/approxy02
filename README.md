@@ -2,7 +2,7 @@
 
 # Sangjun Ji (지상준)
 
-**Undergraduate Research Intern @ Graph & Language Intelligence Lab, Konkuk University**
+**Undergraduate Student @ Konkuk University**
 
 Interested in **Structured Reasoning in LLMs**, **Knowledge-Grounded Reasoning**,  
 and **Synergizing LLMs and Graphs**.
@@ -25,27 +25,35 @@ Expected graduation: Feb. 2027
 
 ## Experience
 
-**Graph & Language Intelligence Lab, Konkuk University**  
+**Data Mining Lab @ KAIST AI**  
+KAIRI Internship
+Jun. 2026 - Present
+
+**Graph & Language Intelligence Lab @ Konkuk University**  
 Undergraduate Research Intern  
-Jul. 2024 – Present  
+Jul. 2024 - Jun. 2026  
+
+**Team Lett**  
+Co-Founder  
+Oct. 2023 - Jul. 2024  
 
 ---
 
 ## Publications
 
+**Internalizing Negation-Gated Logical Rules into LLMs for Document-Level Relation Extraction**  
+Hye-Yoon Baek, **Sangjun Ji**, Jimyeung Seo, Hae-Yoon Koo, Xiongnan Jin, and Byungkook Oh*  
+*Under Review*
+
 **Joint Global-Local Representations via Relation-Entity Pair Encoding for Hyper-Relational Knowledge Graphs**  
-Sangjun Ji, Sangjune Kim, Bonyou Koo, Youngho Lee, Xiongnan Jin, and Byungkook Oh\*  
+**Sangjun Ji**, Sangjune Kim, Bonyou Koo, Youngho Lee, Xiongnan Jin, and Byungkook Oh\*  
 *To Appear in ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*  
-Research Track, Acceptance Rate: 18.5%
+*Research Track, Acceptance Rate: 18.5%*
 
 **Mention-Context Hypergraph Aggregation for Document-level Relation Extraction**  
-Sangjun Ji, Hye-Yoon Baek, Donghyun Lee, and Byungkook Oh\*  
+**Sangjun Ji**, Hye-Yoon Baek, Donghyun Lee, and Byungkook Oh\*  
 *Korea Computer Congress (KCC), 2026*  
-Undergraduate Paper Track
-
-**Internalizing Negation-Gated Logical Rules into LLMs for Document-Level Relation Extraction**  
-Hye-Yoon Baek, Sangjun Ji, Jimyeung Seo, Hae-Yoon Koo, Xiongnan Jin, and Byungkook Oh*  
-*Under Review*
+*Undergraduate Paper Track*
 
 ---
 
