@@ -26,7 +26,7 @@ Expected graduation: Feb. 2027
 ## Experience
 
 **Data Mining Lab @ KAIST AI**  
-KAIRI Internship
+KAIRI Internship  
 Jun. 2026 - Present
 
 **Graph & Language Intelligence Lab @ Konkuk University**  
