@@ -39,24 +39,6 @@ Oct. 2023 - Jul. 2024
 
 ---
 
-## Publications
-
-**Internalizing Negation-Gated Logical Rules into LLMs for Document-Level Relation Extraction**  
-Hye-Yoon Baek, **Sangjun Ji**, Jimyeung Seo, Hae-Yoon Koo, Xiongnan Jin, and Byungkook Oh*  
-*Under Review*
-
-**Joint Global-Local Representations via Relation-Entity Pair Encoding for Hyper-Relational Knowledge Graphs**  
-**Sangjun Ji**, Sangjune Kim, Bonyou Koo, Youngho Lee, Xiongnan Jin, and Byungkook Oh\*  
-*To Appear in ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026*  
-*Research Track, Acceptance Rate: 18.5%*
-
-**Mention-Context Hypergraph Aggregation for Document-level Relation Extraction**  
-**Sangjun Ji**, Hye-Yoon Baek, Donghyun Lee, and Byungkook Oh\*  
-*Korea Computer Congress (KCC), 2026*  
-*Undergraduate Paper Track*
-
----
-
 <div align="center">
 
 For more details, please refer to my [homepage](https://approxy02.github.io/homepage/).
